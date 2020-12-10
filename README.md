@@ -1,4 +1,4 @@
-# sskumar4-coderefactor
+# refactor
 Purpose: 
 Improve marketing agency code for long term sustainability and follow accessibility standards. 
 
@@ -11,6 +11,6 @@ Organized CSS to follow the semantic structure of the HTML elements.
 Added comments to html and css files.
 
 Usage:
-Click the below url to launch  website <url> to view the web page and click links at the top of page to navigate to respective area.
+Click the below url to launch  website https://s-suresh-kumar.github.io/refactor to view the web page and click links at the top of page to navigate to respective area.
 
 PS: The code baseline is kept under base-code directory.
